@@ -3,3 +3,7 @@
 # .NET build output
 bin/
 obj/
+
+# SQLite temporary files
+*.db-shm
+*.db-wal
